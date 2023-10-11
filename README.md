@@ -53,4 +53,29 @@ and
 ./cub3D_bonus assets/maps/maps_bonus/alien.cub  
 ```
 
+## Gameplay of alien map
+
+In this map you will spawn in a spaceship. 
+
+![start_alien](https://github.com/ajealcat/42-cub3D/assets/84559833/161e18af-582e-4168-b9d4-e7b441c28769)
+
+To win the game you will have to explore and find the cockpit.
+
+![alien_door](https://github.com/ajealcat/42-cub3D/assets/84559833/ab545839-8cf6-4936-8222-3210e1ef0d78)
+
+![alien_babyroom](https://github.com/ajealcat/42-cub3D/assets/84559833/eeabf22f-0e2c-462d-b115-150997291288)
+
+Be carefull there may be some aliens... As you can't fight them, you will have to run to dodge them !!! 
+
+![alien_alien](https://github.com/ajealcat/42-cub3D/assets/84559833/abc19b0d-e686-4682-bfa9-c1aca3068455)
+
+If an alien touches you, you loose :C 
+
+![alien_loose](https://github.com/ajealcat/42-cub3D/assets/84559833/dbb2acac-9af9-403d-83d0-f2887d7719ce)
+
+Have fun and keep trying until you win ! :D 
+
+![alien_win](https://github.com/ajealcat/42-cub3D/assets/84559833/2519d5fb-9466-4978-a917-de01b83f425d)
+
+
 Enjoy!
